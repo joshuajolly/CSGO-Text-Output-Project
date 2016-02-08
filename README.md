@@ -22,7 +22,9 @@ This could be annoying to some players if you use it the whole game, so exercise
 
 Questions:
 >Help! It doesn't work!
+
 You are probably running more than one instance of the program at once. If you aren't though, contact me.
 
 >Where can I contact you about it though?
+
 At github.com/joshuajolly or on reddit as /u/anonymous853

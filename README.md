@@ -1,6 +1,6 @@
 # CSGO-Text-Output-Project
 What it does:
-The program takes whatever output you want (for example if you get a 1k to say "bazinga" on allchat) and when you get a 1k writes whatever you want in allchat.
+The program takes whatever output you want (for example if you get a 1k to say "bazinga" on allchat) and when you get a 1k writes whatever you want in allchat (as seen at http://i.imgur.com/EfMrYpR.jpg).
 
 There are a few things you need to do before running this project.
 
